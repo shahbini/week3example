@@ -12,6 +12,7 @@ package example;
 public class ExampleUpdate {
     public static void main(String[] args) {
         System.out.println("hello");
+        System.out.println("world");
     }
     
 }
